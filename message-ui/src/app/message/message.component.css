@@ -1,0 +1,50 @@
+.mainDiv {
+  height: 92.5%;
+  width: 100.75%;
+}
+
+.searchDiv {
+  height: 40px;
+  width: 93%;
+  padding-left: 10px;
+}
+
+.messageDiv {
+  height: 60px !important;
+  width: 380px !important;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.innerMessageDiv {
+  width: 280px;
+  margin-left: 15px !important;
+}
+
+.searchInput {
+  height: 100% !important;
+  width: 80% !important;
+  border: 0px !important;
+  margin-left: 10px;
+}
+
+.double_check {
+  font-size: 10px;
+}
+
+.text-secondary {
+  color: #868686 !important;
+}
+
+.text {
+  font-weight: 200;
+}
+
+@media (min-width: 320px) {
+  .messageDiv {
+    height: 60px !important;
+    width: 280px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}

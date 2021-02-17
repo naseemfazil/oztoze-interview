@@ -1,0 +1,8 @@
+@media (min-width: 320px) {
+  .hideSideNav {
+    display: none;
+  }
+}
+.hideSideNav {
+  display: block;
+}
